@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/soroban-contracts-scaffold",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/soroban-contracts-scaffold": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/soroban-contracts-scaffold",
+    "origin"
+  ]
+}
